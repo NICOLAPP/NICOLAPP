@@ -18,7 +18,7 @@ Apasionado por la tecnología, me gustaría especilizarme en herramientas de min
 ### 💻 Habilidades
 
 - **Lenguajes:** SQL, DAX
-- **Herramientas:** Knime, Power Bi
+- **Herramientas:** HeidySQL, Knime, Power Bi
 
 ### 🌐 Encuéntrame en:
 
