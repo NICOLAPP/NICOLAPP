@@ -20,12 +20,6 @@ Apasionado por la tecnología, me gustaría especilizarme en herramientas de min
 - **Lenguajes:** SQL, DAX
 - **Herramientas:** Knime, Power Bi
 
-### 📚 Proyectos
-
-- **[Nombre del Proyecto]**
-  - Descripción breve.
-  - Tecnologías utilizadas: [Tecnologías]
-
 ### 🌐 Encuéntrame en:
 
 - [LinkedIn](https://linkedin.com/in/tu-usuario)
