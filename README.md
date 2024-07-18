@@ -1,27 +1,24 @@
-# Hola, soy [Tu Nombre] 🚀
+# Hola, soy Nicolás Martínez 🚀
 
 ### 🌟 Sobre Mí
 
-Apasionada por la tecnología, me especializo en [Tu Especialidad]. Me encanta aprender y aplicar nuevas tecnologías para resolver problemas del mundo real.
+Apasionado por la tecnología, me gustaría especilizarme en herramientas de mineria y análisis de datos como SQL, Power Bi, Tableu. Me encanta aprender y aplicar nuevas tecnologías para resolver problemas del mundo real.
 
-- 🔭 Actualmente trabajando en: [Proyecto Actual]
-- 🌱 Aprendiendo: [Tecnología o Habilidad]
-- 👯 Buscando colaborar en: [Tipo de Proyecto]
-- 📫 Cómo contactarme: [Tu Email]
-- 🌐 Sitio web: [Tu Sitio Web]
+- 🔭 Actualmente trabajando en: Incubadora de Santander (Coordinador de Abastecimiento).
+- 🌱 Aprendiendo: SQL y Power Bi.
+- 📫 Cómo contactarme: nikoc18@hotmail.com
 
 ### 💼 Experiencia
 
-- **[Puesto Actual]** en [Empresa]
-  - Descripción de tus responsabilidades y logros.
-- **[Puesto Anterior]** en [Empresa]
-  - Descripción de tus responsabilidades y logros.
+- **Coordinador de Abastecimiento** en Incubadora de Santander.
+  - Garantizar el abastecimiento eficiente de la compañia de las necesidades tecnicas, operativas y administrativas a nivel nacional.
+- **Analista de Compras** en Incubadora de Santander.
+  - Abastecer de manera eficiente las necesidades de la flota automotriz de la compañia a nivel nacional.
 
 ### 💻 Habilidades
 
-- **Lenguajes:** Java, Kotlin, Swift
-- **Frameworks:** Angular, Spring, Vue.js
-- **Herramientas:** AWS, Docker, Jenkins
+- **Lenguajes:** SQL, DAX
+- **Herramientas:** Knime, Power Bi
 
 ### 📚 Proyectos
 
